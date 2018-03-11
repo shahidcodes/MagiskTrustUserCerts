@@ -1,4 +1,4 @@
-##Intercepting HTTPS Traffic from Apps on Android 7+ using Magisk & Burp
+## Intercepting HTTPS Traffic from Apps on Android 7+ using Magisk & Burp
 https://blog.nviso.be/2017/12/22/intercepting-https-traffic-from-apps-on-android-7-using-magisk-burp/
 
 # Magisk Trust User Certs
